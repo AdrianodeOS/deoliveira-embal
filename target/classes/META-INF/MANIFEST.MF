@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: aw-vinhos
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: Adriano
+Implementation-Vendor-Id: com.algaworks
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/deoliveira-e
+ mbal/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
